@@ -6,6 +6,11 @@ Looks so futuristic ... Hmm...
 
 ## Installation
 
+Clone this repo from GitHub with Git Bash or VS Code.
+```bash
+git clone https://github.com/ideohub4/Augmented-Reality-Based-Canvas.git
+```
+
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all packages.
 
 You will find a file named `requirements.txt`. Use this file to install all required packages to run the program.
